@@ -24,7 +24,7 @@ default_config: dict = {
         "__comment2": "Reaction chance",
         "reaction_chance": 40,
         "__comment3__": "Mapping guild/channel list of channels and guilds in which bot will react",
-        "guild_mapping": {1097895009275101244: [1180933726201454642, 1164207879805468722]},
+        "guild_mapping": {1097895009275101244: [1180933726201454642]},
         "__comment4__": "List of guilds/channels/reaction id's and chances (bot will use this reactions)",
         "__comment5__": "Chance is value between 1 and 100 (1% - 100%)",
         "__comment6__": "If two or more reactions = 100% - will be selected using 50% 25% etc...",
