@@ -33,7 +33,7 @@ To run the bot, execute the main script after ensuring that all configurations a
 
 ## Usage
 
-1. Set up your `data.config` with the appropriate values.
+1. Set up your `config.json` with the appropriate values.
 2. Run the script. If the token is not valid, the script will log an error message and exit.
 3. Use the command (`switch`, `launch`, `react`) to start listening to messages on the Discord servers.
 
